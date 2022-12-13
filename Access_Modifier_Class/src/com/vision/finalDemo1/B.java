@@ -3,6 +3,6 @@ package com.vision.finalDemo1;
 //from same package and also from another
 //package
 //method overriding is not possible if our class access modifier is final
-final class B extends A{
+//SSfinal class B extends A{
 
-}
+//}
